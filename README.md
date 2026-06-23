@@ -1,6 +1,7 @@
 # Python Attendance Management System
 
 A simple, terminal-based, object-oriented application for tracking student attendance. It uses CSV files for persistent storage and includes validation logic to prevent duplicates and ensure data integrity.
+(Vibecoded)
 
 ## Features
 
